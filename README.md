@@ -9,7 +9,7 @@
 ---
 
 ### 🔧 Tech Skills
-- **Languages**: Python, JavaScript, HTML, CSS  
+- **Languages**: Python, JavaScript, HTML, CSS, C/C++
 - **Frameworks & Tools**: Ursina, Pygame, and Git  
 - **Other Interests**: Data Science, Machine Learning, and Game Development  
 
