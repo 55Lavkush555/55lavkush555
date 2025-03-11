@@ -2,7 +2,7 @@
 
 ### 🌟 About Me
 - 🎓 **Student & Aspiring Developer**  
-- 🧑‍💻 **Passionate about Programming**, Data Science, and Machine Learning  
+- 🧑‍💻 **Passionate about Programming**, Data Science, and Machine Learning, Web development 
 - 🌐 I’m currently creating websites and working on exciting projects using **Ursina**, **Pygame**, and **Python**  
 - 📚 Learning: **Python**, **JavaScript**, **HTML**, **CSS**, and exploring **Django** or **Flask**  
 
@@ -16,7 +16,7 @@
 ---
 
 ### 📂 My Projects
-- 🚀 Currently working on game projects using **Ursina** and **Pygame**  
+- 🚀 Currently working on web development projects and frameworks like **Node Js**
 - 🌟 Explore my repositories to find unique coding solutions and fun projects!  
 
 ---
@@ -37,7 +37,7 @@
 
 ### 🏆 Fun Facts
 - 🎮 Gamer at heart, building creative worlds with code  
-- ⚽ Sports Enthusiast: Football & Cricket  
+- ⚽ Sports Enthusiast: Kabaddi 
 - 🌱 Always learning something new in the tech world!  
 
 ---
