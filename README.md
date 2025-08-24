@@ -1,46 +1,40 @@
-# 👋 Hello, I'm Lavkush Kushwaha!
+# 👋 Hi, I'm Lavkush Kushwaha  
 
-### 🌟 About Me
-- 🎓 **Student & Aspiring Developer**  
-- 🧑‍💻 **Passionate about Programming**, Data Science, and Machine Learning, Web development 
-- 🌐 I’m currently creating websites and working on exciting projects using **Ursina**, **Pygame**, and **Python**  
-- 📚 Learning: **Python**, **JavaScript**, **HTML**, **CSS**, and exploring **Django** or **Flask**  
-
----
-
-### 🔧 Tech Skills
-- **Languages**: Python, JavaScript, HTML, CSS, C/C++
-- **Frameworks & Tools**: Ursina, Pygame, and Git  
-- **Other Interests**: Data Science, Machine Learning, and Game Development  
+🚀 A passionate **Programmer & Student** from India  
+💻 I love exploring **Web Development, Data Science, and Machine Learning**  
+🎯 Currently focusing on building **projects with Python, JavaScript, React, and Next.js**  
+⚡ Always curious to learn new tech and improve my skills  
 
 ---
 
-### 📂 My Projects
-- 🚀 Currently working on web development projects and frameworks like **Node Js**
-- 🌟 Explore my repositories to find unique coding solutions and fun projects!  
+## 🔥 About Me
+- 🌱 I started coding from **8th grade**, and since then it has become my passion  
+- 📚 Completed **Sigma Web Development Course** by CodeWithHarry  
+- 💡 Exploring **Data Science & Machine Learning**  
+- 🕹️ I also play **Minecraft** and love creating builds & servers  
+- 🏆 Besides coding, I enjoy **Kabaddi** (Defense + Raid both)  
 
 ---
 
-### 📈 Goals
-- 📊 To become a **Data Scientist** and **Machine Learning Expert**  
-- 🌟 Create impactful tools and contribute to the open-source community  
+## 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, C, C++  
+- **Web Dev:** HTML, CSS, TailwindCSS, React, Next.js, Express.js  
+- **Databases:** MongoDB, MySQL  
+- **Other Tools:** Git, GitHub, Cloudinary, Netlify, Render  
 
 ---
 
-### 🌍 Connect with Me
-- **GitHub**: [55lavkush555](https://github.com/55lavkush555)  
-- ⚡ Feel free to collaborate or reach out for discussions on programming, web development, or game design!
-- **My email**: 55lavkush555@gmail.com
-- **My website**: "55lavkush555.infinityfreeapp.com/?i=1"
+## 📊 GitHub Stats
+![Lavkush's GitHub stats](https://github-readme-stats.vercel.app/api?username=55lavkush555&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=55lavkush555&layout=compact&theme=tokyonight)  
 
 ---
 
-### 🏆 Fun Facts
-- 🎮 Gamer at heart, building creative worlds with code  
-- ⚽ Sports Enthusiast: Kabaddi 
-- 🌱 Always learning something new in the tech world!  
+## 🌐 Connect with Me
+- Portfolio: [55lavkush555.netlify.app](https://55lavkush555.netlify.app)  
+- LinkedIn: [linkedin.com/in/lavkush-kushwaha](https://www.linkedin.com/in/lavkush-kushwaha-205850340/)  
 
 ---
 
-⭐️ **"Code. Learn. Build. Inspire."**  
-Thank you for visiting my profile!  
+✨ _“Code. Learn. Build. Repeat.”_ ✨
